@@ -1,0 +1,5 @@
+.venv\Scripts\activate
+uvicorn api.main:app --reload --port 8000 
+uvicorn api.main:app --reload --host 127.0.0.1 --port 8000
+npm run dev
+(index):1 Access to XMLHttpRequest at 'http://127.0.0.1:8000/predict' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
