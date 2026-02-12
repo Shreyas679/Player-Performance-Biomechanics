@@ -51,8 +51,6 @@ By leveraging pose estimation, the system tracks body keypoints, computes joint 
 * Data Processing
 * Machine Learning fundamentals
 
-*(Edit based on what you actually used.)*
-
 ---
 
 ## 🚀 Applications
@@ -79,14 +77,4 @@ By leveraging pose estimation, the system tracks body keypoints, computes joint 
 
 Traditional performance analysis often relies on manual observation, which can be subjective and error-prone. This project demonstrates how AI can transform sports analytics by providing objective, quantifiable, and scalable insights into human movement.
 
----
 
-If you want, I can next give you:
-
-✅ A **top 1% GitHub README structure** (the kind recruiters love)
-✅ Architecture diagram explanation
-✅ Resume bullet points that beat other candidates
-✅ 1-minute explanation that sounds very advanced
-✅ Interview questions from THIS project
-
-Just tell me!
