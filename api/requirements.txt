@@ -1,0 +1,9 @@
+# api/requirements.txt
+fastapi==0.111.0
+uvicorn==0.30.0
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+opencv-python
